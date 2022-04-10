@@ -7,7 +7,7 @@ elif ch == 'Y' or ch == 'y':
 elif ch == 'O' or ch == 'o':
     print("color is orange")
 else:
-    print("color is not valid")
+    print("color is Invalid")
 
 if ch.isupper():
     print("Correct")
