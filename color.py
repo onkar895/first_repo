@@ -22,4 +22,4 @@ else:
 if ch.isalpha():
     print("correct")
 else:
-    print("wrong")
+    print("Wrong")
